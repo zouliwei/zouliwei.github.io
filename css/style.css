@@ -136,6 +136,10 @@ body {
   margin-left: 10px;
 }
 
+.skill h4 {
+  padding-top: 15px;
+}
+
 .chart {
   position: relative;
   width: 152px;
